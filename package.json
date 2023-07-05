@@ -35,6 +35,10 @@
     "vitest-mock-extended": "^1.1.1",
     "vitest-sonar-reporter": "^0.3.5"
   },
+  "overrides": {
+    "semver": "^7.5.3",
+    "optionator": "^0.9.3"
+  },
   "dependencies": {
     "@types/inquirer": "^9.0.3",
     "chalk": "^5.2.0",
